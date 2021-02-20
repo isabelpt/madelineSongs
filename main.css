@@ -1,0 +1,33 @@
+body {
+    background-color: #304161;
+    font-family: 'Titillium Web', sans-serif;
+    color: #67a7f0;
+    padding: 2%;
+}
+
+h1 {
+    font-family: 'Bebas Neue', cursive;
+    color: #f7f5cd;
+    font-size: 100px;
+    text-align: center;
+}
+
+h2 {
+    color: #9fd4a9;
+}
+
+p {
+    margin-bottom: 3%;
+}
+
+iframe {
+    margin-top: 3%;
+}
+
+hr {
+    color:#f7f5cd; 
+}
+
+#greeting {
+    text-align: center;
+}
